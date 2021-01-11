@@ -1,0 +1,5 @@
+############################################################
+# Get User
+GET http://{{host}}:{{port}}/user
+Content-Type: application/hal+json
+Accept: application/hal+json
